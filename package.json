@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Charles M. Shelton",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": "Charles M. Shelton",
 	"scripts": {
 		"start": "node server.js"
 	},
